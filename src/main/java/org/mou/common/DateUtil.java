@@ -796,5 +796,7 @@ public class DateUtil {
 		System.out.println("################getMonthAfter");
 		System.out.println(getMonthAfter(null, 3));
 		System.out.println(getMonthAfter("2012-05", 7));
+		
+		System.out.println("结束");
 	}
 }
